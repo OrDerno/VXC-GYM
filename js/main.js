@@ -1,14 +1,6 @@
 "use strict";
 jQuery(document).ready(function ($) {
 
-//for Preloader
-
-    $(window).load(function () {
-        $("#loading").slideUp('fast');
-    });
-
-
-
     /*---------------------------------------------*
      * Mobile menu
      ---------------------------------------------*/
